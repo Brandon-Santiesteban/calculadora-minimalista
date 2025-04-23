@@ -19,11 +19,10 @@ Funcionalidad de operaciones aritméticas simples y alternar entre modo claro y 
 ## 📁 Estructura del Proyecto
 
 calculadora-minimalista/
-│
-├── index.html
-├── css/
-│   └── styles.css
-├── js/
-│   └── script.js
-├── README.md
-
+  │
+  ├── index.html
+  ├── css/
+  │   └── styles.css
+  ├── js/
+  │   └── script.js
+  ├── README.md
