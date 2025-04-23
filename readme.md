@@ -18,11 +18,13 @@ Funcionalidad de operaciones aritméticas simples y alternar entre modo claro y 
 
 ## 📁 Estructura del Proyecto
 
-calculadora-minimalista/
-  │
-  ├── index.html
-  ├── css/
-  │   └── styles.css
-  ├── js/
-  │   └── script.js
-  ├── README.md
+## 📁 Estructura del proyecto
+
+- `calculadora-minimalista/`
+  - `index.html` — Estructura principal del sitio.
+  - `css/`
+    - `styles.css` — Estilos de la calculadora.
+  - `js/`
+    - `script.js` — Funciones y lógica de la calculadora.
+  - `README.md` — Documentación del proyecto.
+  - `LICENSE` — Licencia del proyecto (MIT).
